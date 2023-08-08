@@ -1,8 +1,7 @@
 # A-B-testing_onlineshop
-========
+Датасет - https://www.kaggle.com/datasets/ellanihill/ab-test-data-online-store
 
-Привет, Олимпийский! Это репозиторий для линейки онлайн-курсов по статистике. Она создана в рамках специализации __[От статистики до нейросетей:](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)__
-
+Собраны результаты двух А-Б-тестирований (recommender_system_test и interface_eu_test) онлайн магазина. Group A является treatment-группой, Group B - control-группой. Необходимо интерпретировать результаты А-Б-тестирования.
 Раньше курс был выложен на курсере, сейчас можно найти его [пиратскую версию на youtube](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
 
 ## Про репозиторий
