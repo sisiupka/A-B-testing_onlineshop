@@ -1,4 +1,5 @@
 # A-B-testing_onlineshop
+A-B-testing of online shop
 ## Описание задачи
 Датасет - https://www.kaggle.com/datasets/ellanihill/ab-test-data-online-store
 
