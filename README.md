@@ -1,5 +1,5 @@
 # A-B-testing_onlineshop
-A-B-testing of online shop sales conversion rate
+A-B-testing of sales conversion rate for online shop
 
 ## Описание задачи
 Датасет - https://www.kaggle.com/datasets/ellanihill/ab-test-data-online-store
